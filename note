@@ -1,0 +1,15 @@
+.notice-icon::after {
+    position: absolute;
+    content: '0';
+    font-size: 15px;
+    color: white;
+    right: -14px;
+    top: -13px;
+    background-color: red;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
